@@ -1,2 +1,8 @@
 cat
 dog
+peacock
+tiger
+lion
+whale
+fish
+dam
